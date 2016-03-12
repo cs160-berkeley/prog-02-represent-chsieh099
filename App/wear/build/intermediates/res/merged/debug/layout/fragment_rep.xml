@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.wearable.view.BoxInsetLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragcontainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="chsieh099.wearproject.MainActivity"
+    tools:deviceIds="wear"
+    android:background="@drawable/congbg">
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="SENorREP"
+        android:textSize="15dp"
+        android:layout_marginBottom="45dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="@color/white"/>
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Person Name"
+        android:textSize="30dp"
+        android:layout_marginBottom="13dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="@color/white"/>
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="100dp"
+        android:layout_height="20dp"
+        android:text="PARTY"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:background="@color/white"
+        android:textColor="@color/navy"/>
+
+    <Button
+        android:id="@+id/detailsButton"
+        android:layout_width="85dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="65dp"
+        android:text="More Details"
+        android:textSize="10dp"
+        android:background="@color/opaqueWhite"
+        android:textColor="@color/white"/>
+
+</android.support.wearable.view.BoxInsetLayout>

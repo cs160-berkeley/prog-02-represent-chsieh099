@@ -1,0 +1,2061 @@
+[
+    {
+        "outputFile": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 60,
+                    "endOffset": 343
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 506,
+                        "endColumn": 60,
+                        "endOffset": 562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 348,
+                    "endColumn": 39,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 567,
+                        "endColumn": 39,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 45,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 607,
+                        "endColumn": 45,
+                        "endOffset": 648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 45,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 653,
+                        "endColumn": 45,
+                        "endOffset": 694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 480,
+                    "endColumn": 38,
+                    "endOffset": 514
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 699,
+                        "endColumn": 38,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 519,
+                    "endColumn": 57,
+                    "endOffset": 572
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 738,
+                        "endColumn": 57,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 577,
+                    "endColumn": 62,
+                    "endOffset": 635
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 62,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 640,
+                    "endColumn": 56,
+                    "endOffset": 692
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 56,
+                        "endOffset": 911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 697,
+                    "endColumn": 57,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 916,
+                        "endColumn": 57,
+                        "endOffset": 969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endColumn": 45,
+                    "endOffset": 796
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 45,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 801,
+                    "endColumn": 46,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 46,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endColumn": 50,
+                    "endOffset": 894
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 50,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 899,
+                    "endColumn": 60,
+                    "endOffset": 955
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 789,
+                        "endColumn": 60,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 960,
+                    "endColumn": 82,
+                    "endOffset": 1038
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 82,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1043,
+                    "endColumn": 72,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 72,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1116,
+                    "endColumn": 82,
+                    "endOffset": 1194
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 82,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1199,
+                    "endColumn": 82,
+                    "endOffset": 1277
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 173,
+                        "endColumn": 82,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1282,
+                    "endColumn": 72,
+                    "endOffset": 1350
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 716,
+                        "endColumn": 72,
+                        "endOffset": 784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1355,
+                    "endColumn": 72,
+                    "endOffset": 1423
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 72,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1428,
+                    "endColumn": 73,
+                    "endOffset": 1497
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endColumn": 73,
+                        "endOffset": 638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1502,
+                    "endColumn": 72,
+                    "endOffset": 1570
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 643,
+                        "endColumn": 72,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1575,
+                    "endColumn": 83,
+                    "endOffset": 1654
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endColumn": 83,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1659,
+                    "endColumn": 43,
+                    "endOffset": 1698
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 974,
+                        "endColumn": 43,
+                        "endOffset": 1013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1703,
+                    "endColumn": 43,
+                    "endOffset": 1742
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1018,
+                        "endColumn": 43,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1747,
+                    "endColumn": 42,
+                    "endOffset": 1785
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 42,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1790,
+                    "endColumn": 42,
+                    "endOffset": 1828
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 42,
+                        "endOffset": 530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1833,
+                    "endColumn": 41,
+                    "endOffset": 1870
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 41,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1875,
+                    "endColumn": 51,
+                    "endOffset": 1922
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1105,
+                        "endColumn": 51,
+                        "endOffset": 1152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1927,
+                    "endColumn": 57,
+                    "endOffset": 1980
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1157,
+                        "endColumn": 57,
+                        "endOffset": 1210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1985,
+                    "endColumn": 53,
+                    "endOffset": 2034
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 53,
+                        "endOffset": 1264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2039,
+                    "endColumn": 47,
+                    "endOffset": 2082
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1269,
+                        "endColumn": 47,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2087,
+                    "endColumn": 55,
+                    "endOffset": 2138
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 55,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2143,
+                    "endColumn": 54,
+                    "endOffset": 2193
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endColumn": 54,
+                        "endOffset": 1423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2198,
+                    "endColumn": 38,
+                    "endOffset": 2232
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endColumn": 38,
+                        "endOffset": 736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2237,
+                    "endColumn": 39,
+                    "endOffset": 2272
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1428,
+                        "endColumn": 39,
+                        "endOffset": 1463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2277,
+                    "endColumn": 38,
+                    "endOffset": 2311
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1468,
+                        "endColumn": 38,
+                        "endOffset": 1502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2316,
+                    "endColumn": 44,
+                    "endOffset": 2356
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1507,
+                        "endColumn": 44,
+                        "endOffset": 1547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2361,
+                    "endColumn": 43,
+                    "endOffset": 2400
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 741,
+                        "endColumn": 43,
+                        "endOffset": 780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2405,
+                    "endColumn": 43,
+                    "endOffset": 2444
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 535,
+                        "endColumn": 43,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2449,
+                    "endColumn": 42,
+                    "endOffset": 2487
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 42,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2492,
+                    "endColumn": 38,
+                    "endOffset": 2526
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 453,
+                        "endColumn": 38,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2531,
+                    "endColumn": 47,
+                    "endOffset": 2574
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 47,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2579,
+                    "endColumn": 40,
+                    "endOffset": 2615
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1552,
+                        "endColumn": 40,
+                        "endOffset": 1588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2620,
+                    "endColumn": 56,
+                    "endOffset": 2672
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1593,
+                        "endColumn": 56,
+                        "endOffset": 1645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2677,
+                    "endColumn": 61,
+                    "endOffset": 2734
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1650,
+                        "endColumn": 61,
+                        "endOffset": 1707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2739,
+                    "endColumn": 37,
+                    "endOffset": 2772
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 579,
+                        "endColumn": 37,
+                        "endOffset": 612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2777,
+                    "endColumn": 54,
+                    "endOffset": 2827
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1750,
+                        "endColumn": 54,
+                        "endOffset": 1800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2832,
+                    "endColumn": 56,
+                    "endOffset": 2884
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1805,
+                        "endColumn": 56,
+                        "endOffset": 1857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2889,
+                    "endColumn": 39,
+                    "endOffset": 2924
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 39,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 8278,
+                    "endColumn": 59,
+                    "endOffset": 8333
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 7204,
+                        "endColumn": 59,
+                        "endOffset": 7259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 8338,
+                    "endColumn": 55,
+                    "endOffset": 8389
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 7264,
+                        "endColumn": 55,
+                        "endOffset": 7315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 8394,
+                    "endColumn": 63,
+                    "endOffset": 8453
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 7320,
+                        "endColumn": 63,
+                        "endOffset": 7379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 8458,
+                    "endColumn": 53,
+                    "endOffset": 8507
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 7384,
+                        "endColumn": 53,
+                        "endOffset": 7433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 8512,
+                    "endColumn": 57,
+                    "endOffset": 8565
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 7438,
+                        "endColumn": 57,
+                        "endOffset": 7491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 8570,
+                    "endColumn": 63,
+                    "endOffset": 8629
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 7496,
+                        "endColumn": 63,
+                        "endOffset": 7555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 8634,
+                    "endColumn": 67,
+                    "endOffset": 8697
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 7560,
+                        "endColumn": 67,
+                        "endOffset": 7623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 8702,
+                    "endColumn": 58,
+                    "endOffset": 8756
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 7628,
+                        "endColumn": 58,
+                        "endOffset": 7682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 8761,
+                    "endColumn": 56,
+                    "endOffset": 8813
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 7687,
+                        "endColumn": 56,
+                        "endOffset": 7739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8818,
+                    "endColumn": 62,
+                    "endOffset": 8876
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 7744,
+                        "endColumn": 62,
+                        "endOffset": 7802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 8881,
+                    "endColumn": 55,
+                    "endOffset": 8932
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 7807,
+                        "endColumn": 55,
+                        "endOffset": 7858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 8937,
+                    "endColumn": 61,
+                    "endOffset": 8994
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 7863,
+                        "endColumn": 61,
+                        "endOffset": 7920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 8999,
+                    "endColumn": 51,
+                    "endOffset": 9046
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 7925,
+                        "endColumn": 51,
+                        "endOffset": 7972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 9051,
+                    "endColumn": 53,
+                    "endOffset": 9100
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 7977,
+                        "endColumn": 53,
+                        "endOffset": 8026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 9105,
+                    "endColumn": 55,
+                    "endOffset": 9156
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 8031,
+                        "endColumn": 55,
+                        "endOffset": 8082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 9161,
+                    "endColumn": 46,
+                    "endOffset": 9203
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 8087,
+                        "endColumn": 46,
+                        "endOffset": 8129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 9208,
+                    "endColumn": 66,
+                    "endOffset": 9270
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/version.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 9275,
+                    "endColumn": 48,
+                    "endOffset": 9319
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 48,
+                        "endOffset": 60
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 9324,
+                    "endColumn": 91,
+                    "endOffset": 9411
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/auth_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 91,
+                        "endOffset": 340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 9416,
+                    "endColumn": 87,
+                    "endOffset": 9499
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/auth_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 87,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 9504,
+                    "endColumn": 156,
+                    "endOffset": 9656
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 733,
+                        "endColumn": 160,
+                        "endOffset": 889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 9661,
+                    "endColumn": 144,
+                    "endOffset": 9801
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4602,
+                        "endColumn": 148,
+                        "endOffset": 4746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 9806,
+                    "endColumn": 108,
+                    "endOffset": 9910
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4026,
+                        "endColumn": 108,
+                        "endOffset": 4130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 9915,
+                    "endColumn": 231,
+                    "endOffset": 10142
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 7585,
+                        "endColumn": 235,
+                        "endOffset": 7816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 10147,
+                    "endColumn": 125,
+                    "endOffset": 10268
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3483,
+                        "endColumn": 125,
+                        "endOffset": 3604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 10273,
+                    "endColumn": 180,
+                    "endOffset": 10449
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3087,
+                        "endColumn": 184,
+                        "endOffset": 3267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 10454,
+                    "endColumn": 124,
+                    "endOffset": 10574
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2811,
+                        "endColumn": 124,
+                        "endOffset": 2931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 10579,
+                    "endColumn": 138,
+                    "endOffset": 10713
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1266,
+                        "endColumn": 142,
+                        "endOffset": 1404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 10718,
+                    "endColumn": 123,
+                    "endOffset": 10837
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2540,
+                        "endColumn": 123,
+                        "endOffset": 2659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 10842,
+                    "endColumn": 212,
+                    "endOffset": 11050
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1843,
+                        "endColumn": 216,
+                        "endOffset": 2055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 11055,
+                    "endColumn": 214,
+                    "endOffset": 11265
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2225,
+                        "endColumn": 218,
+                        "endOffset": 2439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 11270,
+                    "endColumn": 122,
+                    "endOffset": 11388
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1556,
+                        "endColumn": 122,
+                        "endOffset": 1674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 11393,
+                    "endColumn": 164,
+                    "endOffset": 11553
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 6084,
+                        "endColumn": 164,
+                        "endOffset": 6244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 11558,
+                    "endColumn": 93,
+                    "endOffset": 11647
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 5869,
+                        "endColumn": 93,
+                        "endOffset": 5958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 11652,
+                    "endColumn": 136,
+                    "endOffset": 11784
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1033,
+                        "endColumn": 136,
+                        "endOffset": 1165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 11789,
+                    "endColumn": 140,
+                    "endOffset": 11925
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 5611,
+                        "endColumn": 140,
+                        "endOffset": 5747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 11930,
+                    "endColumn": 89,
+                    "endOffset": 12015
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 5408,
+                        "endColumn": 89,
+                        "endOffset": 5493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 12020,
+                    "endColumn": 147,
+                    "endOffset": 12163
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 449,
+                        "endColumn": 147,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 12168,
+                    "endColumn": 102,
+                    "endOffset": 12266
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 102,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 12271,
+                    "endColumn": 150,
+                    "endOffset": 12417
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 8155,
+                        "endColumn": 150,
+                        "endOffset": 8301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 12422,
+                    "endColumn": 91,
+                    "endOffset": 12509
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 7940,
+                        "endColumn": 91,
+                        "endOffset": 8027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 12514,
+                    "endColumn": 110,
+                    "endOffset": 12620
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 6385,
+                        "endColumn": 110,
+                        "endOffset": 6491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 12625,
+                    "endColumn": 218,
+                    "endOffset": 12839
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 6861,
+                        "endColumn": 222,
+                        "endOffset": 7079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 12844,
+                    "endColumn": 94,
+                    "endOffset": 12934
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 6629,
+                        "endColumn": 94,
+                        "endOffset": 6719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 12939,
+                    "endColumn": 104,
+                    "endOffset": 13039
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 7178,
+                        "endColumn": 104,
+                        "endOffset": 7278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 13044,
+                    "endColumn": 180,
+                    "endOffset": 13220
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4285,
+                        "endColumn": 184,
+                        "endOffset": 4465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 13225,
+                    "endColumn": 124,
+                    "endOffset": 13345
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3755,
+                        "endColumn": 124,
+                        "endOffset": 3875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 13350,
+                    "endColumn": 174,
+                    "endOffset": 13520
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5120,
+                        "endColumn": 178,
+                        "endOffset": 5294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 13525,
+                    "endColumn": 104,
+                    "endOffset": 13625
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4881,
+                        "endColumn": 104,
+                        "endOffset": 4981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 13630,
+                    "endColumn": 62,
+                    "endOffset": 13688
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 7378,
+                        "endColumn": 62,
+                        "endOffset": 7436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 13693,
+                    "endColumn": 61,
+                    "endOffset": 13750
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 61,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 13755,
+                    "endColumn": 78,
+                    "endOffset": 13829
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/values/base_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 78,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 13834,
+                    "endColumn": 61,
+                    "endOffset": 13891
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 8405,
+                        "endColumn": 61,
+                        "endOffset": 8462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 13896,
+                    "endColumn": 69,
+                    "endOffset": 13961
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 69,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 13966,
+                    "endColumn": 58,
+                    "endOffset": 14020
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 309,
+                        "endColumn": 58,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 14025,
+                    "endColumn": 60,
+                    "endOffset": 14081
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 60,
+                        "endOffset": 424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 14086,
+                    "endColumn": 52,
+                    "endOffset": 14134
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 65,
+                        "endColumn": 52,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 14139,
+                    "endColumn": 61,
+                    "endOffset": 14196
+                },
+                "from": {
+                    "file": "/Users/CassidyHsieh/AndroidStudioProjects/WearProject/wear/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 61,
+                        "endOffset": 304
+                    }
+                }
+            }
+        ]
+    }
+]

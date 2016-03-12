@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="chsieh099.wearproject.test">
+
+    <uses-sdk android:minSdkVersion="22" android:targetSdkVersion="23" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="chsieh099.wearproject"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for chsieh099.wearproject"/>
+</manifest>
